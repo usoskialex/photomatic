@@ -1,1 +1,1 @@
-# photomatic
+# photomatic project
